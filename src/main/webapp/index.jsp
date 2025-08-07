@@ -1060,7 +1060,7 @@
     <section class="newsletter">
         <div class="container">
             <h2>Stay Updated</h2>
-            <p>Subscribe to our newsletter and get 10% off your first order plus exclusive access to sales and new arrivals.</p>
+            <p>Subscribe to our newsletter and get 15% off your first order plus exclusive access to sales and new arrivals.</p>
             <form class="newsletter-form">
                 <input type="email" placeholder="Enter your email address" required>
                 <button type="submit">Subscribe</button>
